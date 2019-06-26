@@ -23,4 +23,5 @@ Things you may want to cover:
 
 * ...
 
+//バージョン
 ruby ver 2.6.2p47
