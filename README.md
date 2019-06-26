@@ -6,6 +6,8 @@ application up and running.
 Things you may want to cover:
 
 * Ruby version
+ruby ver 2.6.2p47
+
 
 * System dependencies
 
@@ -22,6 +24,3 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-
-//バージョン
-ruby ver 2.6.2p47
